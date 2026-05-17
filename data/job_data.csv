@@ -1,1 +1,61 @@
-
+﻿platform,job_title,company,location,salary_text,salary_min,salary_max,salary_avg,experience_text,experience_years,experience_level,degree_text,degree_required,job_type,work_mode,skills,benefits,quality_score,date_collected
+CTgoodjobs,IT Support,Unknown,Kowloon City,"$18,000-20,000",18000,20000,19000,1 year,1,Junior,Diploma,Yes,Full time,On-site,IT support,"annual leave, sick leave, promotion, maternity leave, medical",5,6/5/2026
+CTgoodjobs,Enterprise Architect,Unknown,NT,"$60,000-70,000",60000,70000,65000,7+ years,7,Senior,,Unknown,Permanent,On-site,architecture,,0,6/5/2026
+CTgoodjobs,Security Engineer,Unknown,Sai Ying Pun,"$20,000-25,000",20000,25000,22500,5+ years,5,Mid,Degree,Yes,Full time,On-site,security,medical,1,6/5/2026
+CTgoodjobs,DevOps AI Engineer,Unknown,Sai Ying Pun,"$30,000-35,000",30000,35000,32500,2+ years,2,Junior,,Unknown,Full time,On-site,devops ai,medical,1,6/5/2026
+CTgoodjobs,Business Analyst,Seamatch,HK,"$20,000-28,000",20000,28000,24000,3 years,3,Mid,Degree,Yes,Full,On-site,BA,5-day week,1,6/5/2026
+CTgoodjobs,Helpdesk Engineer,Swing,HK,"$18,000-20,000",18000,20000,19000,1 year,1,Junior,Diploma,Yes,Full,Shift,helpdesk,"annual leave, 5-day week",2,6/5/2026
+CTgoodjobs,Core Banking BA,IT Solutions,HK,"$17,000-24,999",17000,24999,21000,1 year,1,Entry,Degree,Yes,Full,On-site,BA,5-day week,1,6/5/2026
+CTgoodjobs,IT Support Engineer,IT-ec,HK,"$18,000-20,000",18000,20000,19000,1 year,1,Entry,Diploma,Yes,Full,On-site,support,,0,6/5/2026
+CTgoodjobs,IT Admin Coordinator,KOS,HK,"$20,000-30,000",20000,30000,25000,2.5 years,2.5,Junior,Degree,Yes,Full,On-site,admin,,0,6/5/2026
+CTgoodjobs,IT Helpdesk,CL,HK,"$15,000-18,000",15000,18000,16500,1 year,1,Entry,Diploma,No,Full,Shift,support,5-day week,1,6/5/2026
+CTgoodjobs,System Support,Tech Advance,HK,"$22,000-26,000",22000,26000,24000,2 years,2,Junior,Diploma,Yes,Full,On-site,system,"5-day week, medical, transport allowance",3,6/5/2026
+CTgoodjobs,IT Assistant,Tech Trans,HK,"$21,000-23,000",21000,23000,22000,,,Unknown,,Unknown,Full,On-site,coordination,,0,6/5/2026
+CTgoodjobs,Power Platform Dev,GlobalExec,HK,"$25,000-35,000",25000,35000,30000,1-2 years,1.5,Junior,Dip,Yes,Full,On-site,power platform,,0,6/5/2026
+CTgoodjobs,Onsite Support,CL,HK,"$18,750-21,000",18750,21000,19875,1-2 years,1.5,Entry,Diploma,No,Full,On-site,support,"5-day week, medical",2,6/5/2026
+CTgoodjobs,Technical Specialist,Primetech,HK,"$18,000-23,000",18000,23000,20500,2 years,2,Junior,Diploma,No,Full,Shift,network,"5-day week, overtime, WFH",3,6/5/2026
+CTgoodjobs,Power Platform Dev,GlobalExec,HK,"$25,000-35,000",25000,35000,30000,1-2 years,1.5,Junior,Dip,Yes,Full,On-site,power platform,,0,6/5/2026
+CTgoodjobs,IT Support AD,CL,HK,"$16,000-22,000",16000,22000,19000,2 years,2,Entry,Diploma,No,Full,On-site,support,"5-day week, medical",2,6/5/2026
+CTgoodjobs,Integration Developer,Spiakl,HK,"$24,000-26,000",24000,26000,25000,2 years,2,Junior,Diploma,No,Full,On-site,integration,"5-day week, medical, gratuity",3,6/5/2026
+CTgoodjobs,System Engineer,Primetech,HK,"$18,000-23,000",18000,23000,20500,3 years,3,Junior,Diploma,No,Full,Hybrid,system,"5-day week, WFH",2,6/5/2026
+CTgoodjobs,Deskside Support,CL,HK,"$18,000-22,000",18000,22000,20000,2 years,2,Entry,Diploma,Yes,Full,On-site,support,"5-day week, medical",2,6/5/2026
+JobsDB,Analyst Programmer,SGS Hong Kong Limited,Yuen Long,22000-28000,22000,28000,25000,2-3 years,2.5,Junior,Degree holder,Yes,Full time,On-site,"C#, .NET, JS","medical, bonus, training, career development",4,6/5/2026
+JobsDB,IT Support,Fwone Science & Technology,Central,21000-22000,21000,22000,21500,2 years,2,Junior,Higher Diploma,No,Full time,On-site,"Microsoft365, support",,0,6/5/2026
+JobsDB,Onsite IT Support Engineer,DXC,Central,25000-30000,25000,30000,27500,2 years,2,Junior,Unknown,Unknown,Full time,On-site,"Windows, hardware",,0,6/5/2026
+JobsDB,Deskside Support Specialist,EIRE,Central,30000-35000,30000,35000,32500,1 year,1,Junior,Bachelor,Yes,Contract,On-site,"support, network","medical,dental,retirement,leave,training",5,6/5/2026
+JobsDB,Full Stack Developer,ADECCO,Central,32000-43000,32000,43000,37500,5 years,5,Senior,Unknown,Unknown,Contract,On-site,"Java,C#,API",,0,6/5/2026
+JobsDB,Analyst Programmer,Taylor Coulter,Wan Chai,38000-45000,38000,45000,41500,2 years,2,Junior,Degree,Yes,Full time,On-site,".NET,React",,0,6/5/2026
+JobsDB,Programmer,CL Technical,Ho Man Tin,30000-40000,30000,40000,35000,3 years,3,Mid,Degree,Yes,Full time,On-site,"SQL,Oracle,Tableau",,0,6/5/2026
+JobsDB,Java Developer,Wealth Mgmt Cube,Central,25000-32000,25000,32000,28500,Unknown,,Unknown,Bachelor,Yes,Full time,On-site,"Spring,SQL",training,1,6/5/2026
+JobsDB,AV Programmer,Nanpeng,Kowloon Bay,22000-26000,22000,26000,24000,2 years,2,Junior,Unknown,Unknown,Full time,On-site,"Crestron,QSYS",,0,6/5/2026
+JobsDB,Backend Engineer,Huandong,Sha Tin,18000-25000,18000,25000,21500,fresh,0.5,Entry,Bachelor,Yes,Full time,On-site,"PHP,MySQL",,0,6/5/2026
+JobsDB,Systems Engineer,Nicoll Curtin,HK Island,30000-45000,30000,45000,37500,5 years,5,Senior,Degree,Yes,Full time,On-site,"Azure,AWS",,0,6/5/2026
+JobsDB,Project Engineer,SmartHire,Yuen Long,20000-25000,20000,25000,22500,3 years,3,Mid,Diploma,No,Full time,On-site,AutoCAD,"medical,dental",2,6/5/2026
+JobsDB,Business Analyst,Ignite,HK Island,40000-45000,40000,45000,42500,3 years,3,Mid,Unknown,Unknown,Full time,On-site,"SQL,Agile",,0,6/5/2026
+JobsDB,Cloud Engineer,APJ,Kowloon Bay,40000-45000,40000,45000,42500,5 years,5,Senior,Degree,Yes,Contract,On-site,"Cloud,FinOps",,0,6/5/2026
+JobsDB,C++ Developer,Pinpoint,Central,40000-55000,40000,55000,47500,3 years,3,Mid,Degree,Yes,Full time,On-site,"C++,Linux",,0,6/5/2026
+JobsDB,QA Tester,ADECCO,Kowloon,20000-25000,20000,25000,22500,3 years,3,Mid,Degree,Yes,Full time,On-site,"QA,UAT",,0,6/5/2026
+JobsDB,Senior Backend Engineer,TEKsystems,Kwun Tong,35000-45000,35000,45000,40000,5 years,5,Senior,Unknown,Unknown,Full time,Hybrid,"Java,API,Cloud",WFH,1,6/5/2026
+JobsDB,Sales Executive,TRIUS,Kowloon,20000-23000,20000,23000,21500,1 year,1,Junior,Degree,Yes,Full time,On-site,"CRM,sales",,0,6/5/2026
+JobsDB,Technical Support,Osmium,TST,20000-24000,20000,24000,22000,1 year,1,Junior,Diploma,No,Full time,Shift,"Jira,support",WFH,1,6/5/2026
+JobsDB,Automation Engineer,ASK IT,Central,28000-30000,28000,30000,29000,2 years,2,Junior,Bachelor,Yes,Full time,On-site,"RPA,AI,AWS",,0,6/5/2026
+Labour Department,Data Center Operator,SS DATA LIMITED,"New Territories, Hong Kong","$18,000 - $22,000 per month",18000,22000,20000,1 year,1,Junior,Diploma/Certificate,No,Full time,Shift,"data center operations, facilities management, helpdesk, monitoring","time-off in lieu, medical insurance, year-end bonus",3,6/5/2026
+Labour Department,Data Center Operator,ACME UNIVERSAL DEVELOPMENT COMPANY,"Kowloon Bay, Hong Kong","$10,600 - $14,000",10600,14000,12300,1 year,1,Junior,Secondary 5,Unknown,Full time,Shift,data center operations,"overtime, bonus, discount, training, promotion",5,6/5/2026
+Labour Department,IT Project Engineer,PRIMETECH TECHNOLOGY LIMITED,Hong Kong,"$16,000 - $18,000",16000,18000,17000,6 months,0.5,Entry,Secondary 5,Unknown,Full time,On-site,"IT support, Windows","overtime, bank holiday, training",3,6/5/2026
+Labour Department,Software Engineer,REASONABLE SOFTWARE HOUSE LIMITED,Shenzhen,"$18,000 - $25,000",18000,25000,21500,1 year,1,Junior,Bachelor Degree,Yes,Full time,On-site,"JavaScript, C#",,0,6/5/2026
+Labour Department,IT Technician,CL TECHNICAL SERVICES LIMITED,"Shek Mun, Hong Kong","$14,000 - $15,000",14000,15000,14500,,,Unknown,Secondary 5,Unknown,Full time,On-site,helpdesk,,0,6/5/2026
+Labour Department,AI Software Engineer,BYTEWISE CODING LIMITED,"Wan Chai, Hong Kong","$20,000 - $25,000",20000,25000,22500,,,Unknown,Bachelor Degree,Yes,Full time,On-site,"Python, AI","annual leave, bonus, medical",3,6/5/2026
+Labour Department,IT Officer,TAI PO BAPTIST CHURCH SOCIAL SERVICE,"Tai Po Market, Hong Kong","$23,000 - $25,000",23000,25000,24000,3 years,3,Mid,Bachelor Degree,Yes,Full time,On-site,"CRM, support",,0,6/5/2026
+Labour Department,Software Development Engineer,-,"Sai Ying Pun, Hong Kong","$26,000 - $26,500",26000,26500,26250,1 year 3 months,1.25,Junior,Bachelor Degree,Yes,Full time,On-site,"Java, backend","double pay, allowance",4,6/5/2026
+Labour Department,Network Engineer,PRIMETECH TECHNOLOGY LIMITED,Hong Kong,"$22,000 - $30,000",22000,30000,26000,2 years,2,Junior,Diploma,No,Full time,On-site,networking,"overtime, bank holiday, training",3,6/5/2026
+Labour Department,Java Programmer,SOFTWARE BOX TECHNOLOGY LIMITED,"Tsuen Wan, Hong Kong","$20,000 - $30,000",20000,30000,25000,1 year,1,Junior,Diploma,No,Full time,On-site,"Java, MySQL",double pay,1,6/5/2026
+Labour Department,Deskside Support Engineer,CL TECHNICAL SERVICES LIMITED,Hong Kong,"$18,000 - $22,000",18000,22000,20000,2 years,2,Junior,Diploma,No,Full time,On-site,deskside support,,0,6/5/2026
+Labour Department,Java Junior Programmer,CL TECHNICAL SERVICES LIMITED,Hong Kong,"$15,000 - $18,000",15000,18000,16500,,,Unknown,Sub-degree,No,Full time,On-site,Java dev,,0,6/5/2026
+Labour Department,Web Programmer,CL TECHNICAL SERVICES LIMITED,Hong Kong,"$15,000 - $28,000",15000,28000,21500,1 year,1,Junior,Sub-degree,No,Full time,On-site,web dev,,0,6/5/2026
+Labour Department,Business Analyst (EA),CLASSY WHEELER LIMITED,"Kowloon Bay, Hong Kong","$28,000 - $35,000",28000,35000,31500,1 year,1,Junior,Diploma,No,Full time,On-site,"BA, ERP","annual leave, bank holiday",2,6/5/2026
+Labour Department,IT Support Assistant,I SUNDAY TRAVEL LIMITED,Shenzhen,"$16,000 - $18,000",16000,18000,17000,2 years,2,Junior,Sub-degree,No,Full time,On-site,"IT support, system maintenance, network, security",,0,6/5/2026
+Labour Department,IT Support Technician,EASY GREAT TECHNOLOGY LIMITED,Hong Kong,"$18,000 - $20,000 per month",18000,20000,19000,1 year,1,Junior,Sub-degree,No,Full time,On-site,"IT support, troubleshooting, hardware, software, networking, email systems","overtime allowance, annual leave, medical, promotion opportunity",4,6/5/2026
+Labour Department,Technician Manager / Manageress,HONG KONG HOUSE AGENCY LIMITED,Hong Kong,"$28,000 - $32,000",28000,32000,30000,5 years,5,Senior,Bachelor Degree,Yes,Full time,On-site,"business development, channel partnership, digital tools, CRM, cross-border operations",,0,6/5/2026
+Labour Department,Data Analyst,ORIENT EXPRESS INTERNATIONAL LIMITED,"Quarry Bay, Hong Kong","$30,000 per month",30000,30000,30000,2 years,2,Junior,Sub-degree,No,Full time,On-site,"Python, data analysis, BI dashboard, data modelling, NLP, big data",,0,6/5/2026
+Labour Department,IT Technical cum Helpdesk Support Technician,CTI GROUP HK LIMITED,"Central, Hong Kong","$20,000 - $26,000 per month",20000,26000,23000,2 years,2,Junior,Sub-degree,No,Full time,On-site,"IT support, helpdesk, networking, troubleshooting, hardware, software, system maintenance",,0,6/5/2026
+Labour Department,Programmer (EA),JOB EXPRESS RECRUITMENT AGENCY LIMITED,Hong Kong,"$14,000 - $22,000",14000,22000,18000,1 year,1,Junior,Diploma,No,Full time,On-site,".NET, Java, Python, SQL",bank holiday,1,6/5/2026
