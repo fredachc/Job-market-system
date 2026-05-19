@@ -133,9 +133,17 @@ It stores cleaned and structured job posting records used by:
 <img src="images/dashboard.png" width="400">
 
 - Job records page
+<img src="images/job-records.png" width="400">
+  
 - Job detail page
+<img src="images/job-detail.png" width="400">
+  
 - Add job function
+<img src="images/add-job.png" width="400">
+  
 - Edit job function
+<img src="images/edit-job.png" width="400">
+  
 - Delete job function
 
 ### `jobs_staging`
