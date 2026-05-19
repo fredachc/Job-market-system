@@ -130,7 +130,7 @@ This is the main table used by the system.
 It stores cleaned and structured job posting records used by:
 
 - Dashboard
-<img src="[https://example.com/image.png](https://github.com/fredachc/Job-market-system/blob/main/images/dashboard.png)" width="300">
+<img src="images/dashboard.png" width="400">
 
 - Job records page
 - Job detail page
