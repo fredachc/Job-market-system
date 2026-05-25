@@ -382,16 +382,13 @@ Dashboard
 <img src="images/dashboard.png" width="600">
 
 Staging Workflow
+Approval Workflow
 
 <img src="images/staging.png" width="600">
 
 Error Monitoring
 
 <img src="images/error-monitoring.png" width="600">
-
-Approval Workflow
-
-(Add screenshot here)
 
 Validation and Issue Lifecycle
 
@@ -410,7 +407,7 @@ Add job function
 <img src="images/add-job.png" width="600">
 
 Edit job function
+Delete job function
 
 <img src="images/edit-job.png" width="600">
 
-Delete job function
