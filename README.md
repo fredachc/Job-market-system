@@ -12,7 +12,7 @@ This project simulates how internal business systems manage, validate, approve, 
 
 ---
 
-Project Purpose
+### Project Purpose
 
 The purpose of this project is to transform raw Hong Kong IT job market data into a structured internal-style business management system.
 
@@ -35,7 +35,7 @@ The project focuses on simulating real-world business system operations and supp
 
 ---
 
-System Workflow
+### System Workflow
 
 ```text
 Add Job Record
@@ -59,7 +59,7 @@ Display on Dashboard and Reports
 
 ---
 
-System Architerture
+### System Architerture
 
 ```text
 Frontend (Bootstrap UI)
@@ -78,7 +78,7 @@ Dashboard / Reports / Monitoring
 
 ---
 
-Key Features
+### Key Features
 
 1. Dashboard Overview
 
@@ -125,7 +125,7 @@ CRUD operations are separated from production approval workflow to simulate ente
 ---
 4. Staging Workflow
 
-### jobs_staging
+jobs_staging
 
 instead of directly affecting the production table.
 
@@ -147,7 +147,7 @@ Current validation checks include:
 
 Detected issues are automatically logged into:
 
-### error_logs
+error_logs
 
 with issue status management.
 
@@ -250,7 +250,7 @@ Tech Stack
 
 ---
 
-Database Structure
+### Database Structure
 
 jobs
 
@@ -327,7 +327,7 @@ job-market-system/
 ```
 ---
 
-Business System Concepts Demonstrated
+### Business System Concepts Demonstrated
 
 This project demonstrates practical concepts commonly found in internal business systems:
 
@@ -344,7 +344,7 @@ This project demonstrates practical concepts commonly found in internal business
 
 ---
 
-Key Learning Outcomes
+### Key Learning Outcomes
 
 Through this project, I learned:
 
@@ -359,7 +359,7 @@ Through this project, I learned:
 
 ---
 
-Future Improvements
+### Future Improvements
 
 Potential future enhancements include:
 
@@ -375,7 +375,7 @@ Potential future enhancements include:
 
 ⸻
 
-Screenshots
+### Screenshots
 
 Dashboard
 
