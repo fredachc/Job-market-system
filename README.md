@@ -12,15 +12,6 @@ This project demonstrates:
 
 The purpose of this project is to show practical skills for System Support, Application Support, Reporting Support, and Business System Support roles.
 
-CSV Raw Data
-↓
-jobs_staging
-↓
-Validation / Cleaning
-↓
-jobs
-↓
-Dashboard / Search / CRUD / Reports
 
 ---
 
