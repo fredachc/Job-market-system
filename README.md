@@ -395,7 +395,7 @@ Approval Workflow
 
 Validation and Issue Lifecycle
 
-<img src="images/v-i" width="400">
+<img src="images/v-i.png" width="400">
 
 Job records page
 
