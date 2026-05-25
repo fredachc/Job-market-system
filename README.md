@@ -379,15 +379,15 @@ Potential future enhancements include:
 
 Dashboard
 
-<img src="images/dashboard.png" width="400">
+<img src="images/dashboard.png" width="600">
 
 Staging Workflow
 
-<img src="images/staging.png" width="400">
+<img src="images/staging.png" width="600">
 
 Error Monitoring
 
-<img src="images/error-monitoring.png" width="400">
+<img src="images/error-monitoring.png" width="600">
 
 Approval Workflow
 
@@ -395,22 +395,22 @@ Approval Workflow
 
 Validation and Issue Lifecycle
 
-<img src="images/v-i.png" width="400">
+<img src="images/v-i.png" width="600">
 
 Job records page
 
-<img src="images/job-records.png" width="400">
+<img src="images/job-records.png" width="600">
 
 Job detail page
 
-<img src="images/job-detail.png" width="400">
+<img src="images/job-detail.png" width="600">
 
 Add job function
 
-<img src="images/add-job.png" width="400">
+<img src="images/add-job.png" width="600">
 
 Edit job function
 
-<img src="images/edit-job.png" width="400">
+<img src="images/edit-job.png" width="600">
 
 Delete job function
