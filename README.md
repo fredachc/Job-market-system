@@ -74,6 +74,7 @@ MySQL Database
     └── error_logs
 ↓
 Dashboard / Reports / Monitoring
+```
 
 ---
 
@@ -124,8 +125,7 @@ CRUD operations are separated from production approval workflow to simulate ente
 ---
 4. Staging Workflow
 
-```text
-jobs_staging
+### `jobs_staging`
 
 instead of directly affecting the production table.
 
