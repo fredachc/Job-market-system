@@ -383,11 +383,11 @@ Dashboard
 
 Staging Workflow
 
-(Add screenshot here)
+<img src="images/staging.png" width="400">
 
 Error Monitoring
 
-(Add screenshot here)
+<img src="images/error-monitoring.png" width="400">
 
 Approval Workflow
 
@@ -395,7 +395,7 @@ Approval Workflow
 
 Validation and Issue Lifecycle
 
-(Add screenshot here)
+<img src="images/v-i" width="400">
 
 Job records page
 
