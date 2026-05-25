@@ -32,3 +32,26 @@ The project focuses on simulating real-world business system operations and supp
 * ERP support teams
 * Business systems teams
 * Reporting and operations support teams
+
+---
+
+System Workflow
+
+```text
+Add Job Record
+↓
+Store in jobs_staging
+↓
+Run Validation Checks
+↓
+Generate Error Logs
+↓
+Fix Validation Issues
+↓
+Re-run Validation
+↓
+Approve Record
+↓
+Move to Production Table (jobs)
+↓
+Display on Dashboard and Reports
