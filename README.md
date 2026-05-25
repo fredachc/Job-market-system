@@ -125,7 +125,7 @@ CRUD operations are separated from production approval workflow to simulate ente
 ---
 4. Staging Workflow
 
-### `jobs_staging`
+# `jobs_staging`
 
 instead of directly affecting the production table.
 
