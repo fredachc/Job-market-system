@@ -1,8 +1,26 @@
 # HK IT Job Market Intelligence System
 
-A web-based job market data management and analysis system built with **PHP, MySQL, Bootstrap, and Chart.js**.
+A PHP + MySQL web-based data management system that simulates an internal business system for managing Hong Kong IT job market records.
 
-This project analyzes Hong Kong IT-related job posting data and provides insights into salary levels, experience requirements, degree requirements, platform differences, and in-demand skills.
+This project demonstrates:
+- Data import and staging workflow
+- Job record CRUD management
+- Search and filtering functions
+- Salary and skill demand analysis
+- Dashboard reporting
+- Basic data quality handling
+
+The purpose of this project is to show practical skills for System Support, Application Support, Reporting Support, and Business System Support roles.
+
+CSV Raw Data
+↓
+jobs_staging
+↓
+Validation / Cleaning
+↓
+jobs
+↓
+Dashboard / Search / CRUD / Reports
 
 ---
 
