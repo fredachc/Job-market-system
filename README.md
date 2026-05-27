@@ -428,10 +428,10 @@ The Jira board includes:
 
 ### Jira Workflow Screenshots
 
-![Jira Board](images/jira-board.png)
+<img src="images/jira-board.png" width="600">
 
-![User Story Example](images/jira-user-story.png)
+<img src="images/jira-user-story.png" width="600">
 
-![Search and Filter User Story](images/jira-search-story.png)
+<img src="images/jira-search-story.png" width="600">
 
-![Bug Report Example](images/jira-bug-report.png)
+<img src="images/jira-bug-report.png" width="600">
