@@ -411,3 +411,27 @@ Delete job function
 
 <img src="images/edit-job.png" width="600">
 
+---
+
+### Jira-style Project Management & UAT Workflow
+
+This project includes a simulated Jira workflow to demonstrate understanding of software project tracking, user stories, acceptance criteria, task breakdown, defect reporting, UAT preparation, and issue follow-up.
+
+The Jira board includes:
+
+- User stories for key system functions
+- Acceptance criteria based on user requirements
+- Subtasks for implementation and testing activities
+- Sample bug report for salary filtering issue
+- UAT-related task tracking
+- Workflow stages: To Do, In Progress, Testing, and Done
+
+### Jira Workflow Screenshots
+
+![Jira Board](images/jira-board.png)
+
+![User Story Example](images/jira-user-story.png)
+
+![Search and Filter User Story](images/jira-search-story.png)
+
+![Bug Report Example](images/jira-bug-report.png)
