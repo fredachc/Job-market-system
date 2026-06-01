@@ -8,7 +8,8 @@ A PHP + MySQL web-based business system simulation project designed to demonstra
 * Reporting Support
 * Data Operations
 
-This project simulates how internal business systems manage, validate, approve, monitor, and report Hong Kong IT job market data through structured staging and production workflows.
+This project simulates how internal business systems manage, validate, approve, monitor, and report Hong Kong IT job market data through structured staging and production workflows. 
+It includes UAT test cases covering CRUD functions, search/filtering, dashboard reporting, data validation, and navigation to demonstrate basic QA and UAT workflow understanding.
 
 ---
 
