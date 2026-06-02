@@ -322,6 +322,9 @@ job-market-system/
 ├── scripts/
 │   └── check_errors.php
 │
+├── docs/
+│   └── UAT Test Cases.docx
+│
 ├── sql/
 │    └── job_market_db.sql
 └── README.md
